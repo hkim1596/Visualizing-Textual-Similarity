@@ -1,8 +1,8 @@
 # Visualizing-Textual-Similarity of Shakespearean Suspect Texts: An Examination of the Henry VI Plays
 
-This repository houses interactive and static figures for the following article pbulished by Oxford University Press on behalf of EADH.
+This repository houses interactive and static figures for the following article published by Oxford University Press on behalf of EADH.
 
-Heejin Kim. "Visualizing-Textual-Similarity of Shakespearean Suspect Texts: An Examination of the <em>Henry VI</em> Plays" <em>Digital Scholarship in the Humanities</em>
+Heejin Kim. "Visualizing-Textual-Similarity of Shakespearean Suspect Texts: An Examination of the <em>Henry VI</em> Plays" <em>Digital Scholarship in the Humanities</em> (forthcoming)
 
 DOI: https://10.1093/llc/fqaa064
 
