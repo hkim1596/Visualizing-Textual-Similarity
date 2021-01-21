@@ -1,4 +1,4 @@
-# Visualizing-Textual-Similarity of Shakespearean Suspect Texts: An Examination of the Henry VI Plays
+# Visualizing-Textual-Similarity of Shakespearean Suspect Texts
 
 This repository houses interactive and static figures for the following article published by Oxford University Press on behalf of EADH.
 
